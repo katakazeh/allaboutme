@@ -5,7 +5,8 @@ Welcome to my GitHub profile! Here's a bit about myself:
 I am passionate about engineering and programming, and I love exploring the endless possibilities that the world of technology offers. Currently, I hold the position of Programming Team Lead at the Robotics Club in my high school, where we actively participate in the FIRST Robotics Competition (FTC). It has been an exhilarating experience, and we have achieved great success, reaching states twice and showcasing our skills on a grand stage.
 
 <h2>Achievements</h2>
-<h3>FIRST Robotics Competition (FTC) States:</h3> Our robotics team has worked tirelessly to excel in the FRC, a challenging competition that tests our creativity, teamwork, and problem-solving abilities. Reaching states not once, but twice, has been a testament to our dedication and hard work.
+<h3>FIRST Robotics Competition (FTC) States:</h3> Our robotics team has worked tirelessly to excel in the FRC, a challenging competition that tests our creativity, teamwork, and problem-solving abilities. Reaching states not once, but twice (2021+2022), has been a testament to our dedication and hard work. 
+@Niskayuna-RoboWarriors
 
 <h3>Sienna Coding Competition:</h3> I am proud to say that we have consistently performed exceptionally well in the Sienna Coding Competition. We secured the second place and followed it up with two more appearances, grabbing the fourth place both times. These achievements have only fueled my passion for programming and pushing boundaries.
 
