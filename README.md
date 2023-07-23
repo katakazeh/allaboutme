@@ -1,4 +1,4 @@
-Hello, I'm Arthur Leung
+<h3>Hello, I'm Arthur Leung<h3>
 Welcome to my GitHub profile! Here's a bit about myself:
 
 About Me:
