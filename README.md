@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! Here's a bit about myself:
 
 <h3>About Me:</h3>
-I am passionate about engineering and programming, and I love exploring the endless possibilities that the world of technology offers. Currently, I held the position of Programming Team Lead at the Robotics Club in my high school, where we actively participate in the FIRST Robotics Competition (FTC). It has been an exhilarating experience, and we have achieved great success, reaching states twice and showcasing our skills on a grand stage.
+I am a freshman in college passionate about engineering and programming, and I love exploring the endless possibilities that the world of technology offers. In high school, I held the position of Programming Team Lead at the Robotics Club, where we actively participated in the FIRST Robotics Competition (FTC). It has been an exhilarating experience, and we have achieved great success, reaching states twice and showcasing our skills on a grand stage.
 
 <h2>Achievements</h2>
 <h3>FIRST Robotics Competition (FTC) States:</h3> Our robotics team has worked tirelessly to excel in the FTC, a challenging competition that tests our creativity, teamwork, and problem-solving abilities. Reaching states not once, but twice (2021+2022), has been a testament to our dedication and hard work. 
